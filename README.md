@@ -1,1 +1,0 @@
-This is mipod90's first git project! 
